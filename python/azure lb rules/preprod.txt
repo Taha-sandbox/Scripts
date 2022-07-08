@@ -1,0 +1,408 @@
+rule_135
+rule_135 (TCP/135)
+lblbackpoolp
+dbhealth
+rule_1433
+rule_1433 (TCP/1433)
+lblbackpoolp
+dbhealth
+rule_63000
+rule_63000 (TCP/63000)
+lblbackpoolp
+dbhealth
+rule_63001
+rule_63001 (TCP/63001)
+lblbackpoolp
+dbhealth
+rule_63002
+rule_63002 (TCP/63002)
+lblbackpoolp
+dbhealth
+rule_63003
+rule_63003 (TCP/63003)
+lblbackpoolp
+dbhealth
+rule_63004
+rule_63004 (TCP/63004)
+lblbackpoolp
+dbhealth
+rule_63005
+rule_63005 (TCP/63005)
+lblbackpoolp
+dbhealth
+rule_63006
+rule_63006 (TCP/63006)
+lblbackpoolp
+dbhealth
+rule_63007
+rule_63007 (TCP/63007)
+lblbackpoolp
+dbhealth
+rule_63008
+rule_63008 (TCP/63008)
+lblbackpoolp
+dbhealth
+rule_63009
+rule_63009 (TCP/63009)
+lblbackpoolp
+dbhealth
+rule_63010
+rule_63010 (TCP/63010)
+lblbackpoolp
+dbhealth
+rule_63011
+rule_63011 (TCP/63011)
+lblbackpoolp
+dbhealth
+rule_63012
+rule_63012 (TCP/63012)
+lblbackpoolp
+dbhealth
+rule_63013
+rule_63013 (TCP/63013)
+lblbackpoolp
+dbhealth
+rule_63014
+rule_63014 (TCP/63014)
+lblbackpoolp
+dbhealth
+rule_63015
+rule_63015 (TCP/63015)
+lblbackpoolp
+dbhealth
+rule_63016
+rule_63016 (TCP/63016)
+lblbackpoolp
+dbhealth
+rule_63017
+rule_63017 (TCP/63017)
+lblbackpoolp
+dbhealth
+rule_63018
+rule_63018 (TCP/63018)
+lblbackpoolp
+dbhealth
+rule_63019
+rule_63019 (TCP/63019)
+lblbackpoolp
+dbhealth
+rule_63020
+rule_63020 (TCP/63020)
+lblbackpoolp
+dbhealth
+rule_63021
+rule_63021 (TCP/63021)
+lblbackpoolp
+dbhealth
+rule_63022
+rule_63022 (TCP/63022)
+lblbackpoolp
+dbhealth
+rule_63023
+rule_63023 (TCP/63023)
+lblbackpoolp
+dbhealth
+rule_63024
+rule_63024 (TCP/63024)
+lblbackpoolp
+dbhealth
+rule_63025
+rule_63025 (TCP/63025)
+lblbackpoolp
+dbhealth
+rule_63026
+rule_63026 (TCP/63026)
+lblbackpoolp
+dbhealth
+rule_63027
+rule_63027 (TCP/63027)
+lblbackpoolp
+dbhealth
+rule_63028
+rule_63028 (TCP/63028)
+lblbackpoolp
+dbhealth
+rule_63029
+rule_63029 (TCP/63029)
+lblbackpoolp
+dbhealth
+rule_63030
+rule_63030 (TCP/63030)
+lblbackpoolp
+dbhealth
+rule_63031
+rule_63031 (TCP/63031)
+lblbackpoolp
+dbhealth
+rule_63032
+rule_63032 (TCP/63032)
+lblbackpoolp
+dbhealth
+rule_63033
+rule_63033 (TCP/63033)
+lblbackpoolp
+dbhealth
+rule_63034
+rule_63034 (TCP/63034)
+lblbackpoolp
+dbhealth
+rule_63035
+rule_63035 (TCP/63035)
+lblbackpoolp
+dbhealth
+rule_63036
+rule_63036 (TCP/63036)
+lblbackpoolp
+dbhealth
+rule_63037
+rule_63037 (TCP/63037)
+lblbackpoolp
+dbhealth
+rule_63038
+rule_63038 (TCP/63038)
+lblbackpoolp
+dbhealth
+rule_63039
+rule_63039 (TCP/63039)
+lblbackpoolp
+dbhealth
+rule_63040
+rule_63040 (TCP/63040)
+lblbackpoolp
+dbhealth
+rule_63041
+rule_63041 (TCP/63041)
+lblbackpoolp
+dbhealth
+rule_63042
+rule_63042 (TCP/63042)
+lblbackpoolp
+dbhealth
+rule_63043
+rule_63043 (TCP/63043)
+lblbackpoolp
+dbhealth
+rule_63044
+rule_63044 (TCP/63044)
+lblbackpoolp
+dbhealth
+rule_63045
+rule_63045 (TCP/63045)
+lblbackpoolp
+dbhealth
+rule_63046
+rule_63046 (TCP/63046)
+lblbackpoolp
+dbhealth
+rule_63047
+rule_63047 (TCP/63047)
+lblbackpoolp
+dbhealth
+rule_63048
+rule_63048 (TCP/63048)
+lblbackpoolp
+dbhealth
+rule_63049
+rule_63049 (TCP/63049)
+lblbackpoolp
+dbhealth
+rule_63050
+rule_63050 (TCP/63050)
+lblbackpoolp
+dbhealth
+rule_63051
+rule_63051 (TCP/63051)
+lblbackpoolp
+dbhealth
+rule_63052
+rule_63052 (TCP/63052)
+lblbackpoolp
+dbhealth
+rule_63053
+rule_63053 (TCP/63053)
+lblbackpoolp
+dbhealth
+rule_63054
+rule_63054 (TCP/63054)
+lblbackpoolp
+dbhealth
+rule_63055
+rule_63055 (TCP/63055)
+lblbackpoolp
+dbhealth
+rule_63056
+rule_63056 (TCP/63056)
+lblbackpoolp
+dbhealth
+rule_63057
+rule_63057 (TCP/63057)
+lblbackpoolp
+dbhealth
+rule_63058
+rule_63058 (TCP/63058)
+lblbackpoolp
+dbhealth
+rule_63059
+rule_63059 (TCP/63059)
+lblbackpoolp
+dbhealth
+rule_63060
+rule_63060 (TCP/63060)
+lblbackpoolp
+dbhealth
+rule_63061
+rule_63061 (TCP/63061)
+lblbackpoolp
+dbhealth
+rule_63062
+rule_63062 (TCP/63062)
+lblbackpoolp
+dbhealth
+rule_63063
+rule_63063 (TCP/63063)
+lblbackpoolp
+dbhealth
+rule_63064
+rule_63064 (TCP/63064)
+lblbackpoolp
+dbhealth
+rule_63065
+rule_63065 (TCP/63065)
+lblbackpoolp
+dbhealth
+rule_63066
+rule_63066 (TCP/63066)
+lblbackpoolp
+dbhealth
+rule_63067
+rule_63067 (TCP/63067)
+lblbackpoolp
+dbhealth
+rule_63068
+rule_63068 (TCP/63068)
+lblbackpoolp
+dbhealth
+rule_63069
+rule_63069 (TCP/63069)
+lblbackpoolp
+dbhealth
+rule_63070
+rule_63070 (TCP/63070)
+lblbackpoolp
+dbhealth
+rule_63071
+rule_63071 (TCP/63071)
+lblbackpoolp
+dbhealth
+rule_63072
+rule_63072 (TCP/63072)
+lblbackpoolp
+dbhealth
+rule_63073
+rule_63073 (TCP/63073)
+lblbackpoolp
+dbhealth
+rule_63074
+rule_63074 (TCP/63074)
+lblbackpoolp
+dbhealth
+rule_63075
+rule_63075 (TCP/63075)
+lblbackpoolp
+dbhealth
+rule_63076
+rule_63076 (TCP/63076)
+lblbackpoolp
+dbhealth
+rule_63077
+rule_63077 (TCP/63077)
+lblbackpoolp
+dbhealth
+rule_63078
+rule_63078 (TCP/63078)
+lblbackpoolp
+dbhealth
+rule_63079
+rule_63079 (TCP/63079)
+lblbackpoolp
+dbhealth
+rule_63080
+rule_63080 (TCP/63080)
+lblbackpoolp
+dbhealth
+rule_63081
+rule_63081 (TCP/63081)
+lblbackpoolp
+dbhealth
+rule_63082
+rule_63082 (TCP/63082)
+lblbackpoolp
+dbhealth
+rule_63083
+rule_63083 (TCP/63083)
+lblbackpoolp
+dbhealth
+rule_63084
+rule_63084 (TCP/63084)
+lblbackpoolp
+dbhealth
+rule_63085
+rule_63085 (TCP/63085)
+lblbackpoolp
+dbhealth
+rule_63086
+rule_63086 (TCP/63086)
+lblbackpoolp
+dbhealth
+rule_63087
+rule_63087 (TCP/63087)
+lblbackpoolp
+dbhealth
+rule_63088
+rule_63088 (TCP/63088)
+lblbackpoolp
+dbhealth
+rule_63089
+rule_63089 (TCP/63089)
+lblbackpoolp
+dbhealth
+rule_63090
+rule_63090 (TCP/63090)
+lblbackpoolp
+dbhealth
+rule_63091
+rule_63091 (TCP/63091)
+lblbackpoolp
+dbhealth
+rule_63092
+rule_63092 (TCP/63092)
+lblbackpoolp
+dbhealth
+rule_63093
+rule_63093 (TCP/63093)
+lblbackpoolp
+dbhealth
+rule_63094
+rule_63094 (TCP/63094)
+lblbackpoolp
+dbhealth
+rule_63095
+rule_63095 (TCP/63095)
+lblbackpoolp
+dbhealth
+rule_63096
+rule_63096 (TCP/63096)
+lblbackpoolp
+dbhealth
+rule_63097
+rule_63097 (TCP/63097)
+lblbackpoolp
+dbhealth
+rule_63098
+rule_63098 (TCP/63098)
+lblbackpoolp
+dbhealth
+rule_63099
+rule_63099 (TCP/63099)
+lblbackpoolp
+dbhealth

@@ -1,0 +1,408 @@
+63000-rule
+63000-rule (TCP/63000)
+biztalkp-lb2-pool
+dbhealth
+63001-rule
+63001-rule (TCP/63001)
+biztalkp-lb2-pool
+dbhealth
+63002-rule
+63002-rule (TCP/63002)
+biztalkp-lb2-pool
+dbhealth
+63003-rule
+63003-rule (TCP/63003)
+biztalkp-lb2-pool
+dbhealth
+63004-rule
+63004-rule (TCP/63004)
+biztalkp-lb2-pool
+dbhealth
+63005-rule
+63005-rule (TCP/63005)
+biztalkp-lb2-pool
+dbhealth
+63006-rule
+63006-rule (TCP/63006)
+biztalkp-lb2-pool
+dbhealth
+63007-rule
+63007-rule (TCP/63007)
+biztalkp-lb2-pool
+dbhealth
+63008-rule
+63008-rule (TCP/63008)
+biztalkp-lb2-pool
+dbhealth
+63009-rule
+63009-rule (TCP/63009)
+biztalkp-lb2-pool
+dbhealth
+63010-rule
+63010-rule (TCP/63010)
+biztalkp-lb2-pool
+dbhealth
+63011-rule
+63011-rule (TCP/63011)
+biztalkp-lb2-pool
+dbhealth
+63012-rule
+63012-rule (TCP/63012)
+biztalkp-lb2-pool
+dbhealth
+63013-rule
+63013-rule (TCP/63013)
+biztalkp-lb2-pool
+dbhealth
+63014-rule
+63014-rule (TCP/63014)
+biztalkp-lb2-pool
+dbhealth
+63015-rule
+63015-rule (TCP/63015)
+biztalkp-lb2-pool
+dbhealth
+63016-rule
+63016-rule (TCP/63016)
+biztalkp-lb2-pool
+dbhealth
+63017-rule
+63017-rule (TCP/63017)
+biztalkp-lb2-pool
+dbhealth
+63018-rule
+63018-rule (TCP/63018)
+biztalkp-lb2-pool
+dbhealth
+63019-rule
+63019-rule (TCP/63019)
+biztalkp-lb2-pool
+dbhealth
+63020-rule
+63020-rule (TCP/63020)
+biztalkp-lb2-pool
+dbhealth
+63021-rule
+63021-rule (TCP/63021)
+biztalkp-lb2-pool
+dbhealth
+63022-rule
+63022-rule (TCP/63022)
+biztalkp-lb2-pool
+dbhealth
+63023-rule
+63023-rule (TCP/63023)
+biztalkp-lb2-pool
+dbhealth
+63024-rule
+63024-rule (TCP/63024)
+biztalkp-lb2-pool
+dbhealth
+63025-rule
+63025-rule (TCP/63025)
+biztalkp-lb2-pool
+dbhealth
+63026-rule
+63026-rule (TCP/63026)
+biztalkp-lb2-pool
+dbhealth
+63027-rule
+63027-rule (TCP/63027)
+biztalkp-lb2-pool
+dbhealth
+63028-rule
+63028-rule (TCP/63028)
+biztalkp-lb2-pool
+dbhealth
+63029-rule
+63029-rule (TCP/63029)
+biztalkp-lb2-pool
+dbhealth
+63030-rule
+63030-rule (TCP/63030)
+biztalkp-lb2-pool
+dbhealth
+63031-rule
+63031-rule (TCP/63031)
+biztalkp-lb2-pool
+dbhealth
+63032-rule
+63032-rule (TCP/63032)
+biztalkp-lb2-pool
+dbhealth
+63033-rule
+63033-rule (TCP/63033)
+biztalkp-lb2-pool
+dbhealth
+63034-rule
+63034-rule (TCP/63034)
+biztalkp-lb2-pool
+dbhealth
+63035-rule
+63035-rule (TCP/63035)
+biztalkp-lb2-pool
+dbhealth
+63036-rule
+63036-rule (TCP/63036)
+biztalkp-lb2-pool
+dbhealth
+63037-rule
+63037-rule (TCP/63037)
+biztalkp-lb2-pool
+dbhealth
+63038-rule
+63038-rule (TCP/63038)
+biztalkp-lb2-pool
+dbhealth
+63039-rule
+63039-rule (TCP/63039)
+biztalkp-lb2-pool
+dbhealth
+63040-rule
+63040-rule (TCP/63040)
+biztalkp-lb2-pool
+dbhealth
+63041-rule
+63041-rule (TCP/63041)
+biztalkp-lb2-pool
+dbhealth
+63042-rule
+63042-rule (TCP/63042)
+biztalkp-lb2-pool
+dbhealth
+63043-rule
+63043-rule (TCP/63043)
+biztalkp-lb2-pool
+dbhealth
+63044-rule
+63044-rule (TCP/63044)
+biztalkp-lb2-pool
+dbhealth
+63045-rule
+63045-rule (TCP/63045)
+biztalkp-lb2-pool
+dbhealth
+63046-rule
+63046-rule (TCP/63046)
+biztalkp-lb2-pool
+dbhealth
+63047-rule
+63047-rule (TCP/63047)
+biztalkp-lb2-pool
+dbhealth
+63048-rule
+63048-rule (TCP/63048)
+biztalkp-lb2-pool
+dbhealth
+63049-rule
+63049-rule (TCP/63049)
+biztalkp-lb2-pool
+dbhealth
+63050-rule
+63050-rule (TCP/63050)
+biztalkp-lb2-pool
+dbhealth
+63051-rule
+63051-rule (TCP/63051)
+biztalkp-lb2-pool
+dbhealth
+63052-rule
+63052-rule (TCP/63052)
+biztalkp-lb2-pool
+dbhealth
+63053-rule
+63053-rule (TCP/63053)
+biztalkp-lb2-pool
+dbhealth
+63054-rule
+63054-rule (TCP/63054)
+biztalkp-lb2-pool
+dbhealth
+63055-rule
+63055-rule (TCP/63055)
+biztalkp-lb2-pool
+dbhealth
+63056-rule
+63056-rule (TCP/63056)
+biztalkp-lb2-pool
+dbhealth
+63057-rule
+63057-rule (TCP/63057)
+biztalkp-lb2-pool
+dbhealth
+63058-rule
+63058-rule (TCP/63058)
+biztalkp-lb2-pool
+dbhealth
+63059-rule
+63059-rule (TCP/63059)
+biztalkp-lb2-pool
+dbhealth
+63060-rule
+63060-rule (TCP/63060)
+biztalkp-lb2-pool
+dbhealth
+63061-rule
+63061-rule (TCP/63061)
+biztalkp-lb2-pool
+dbhealth
+63062-rule
+63062-rule (TCP/63062)
+biztalkp-lb2-pool
+dbhealth
+63063-rule
+63063-rule (TCP/63063)
+biztalkp-lb2-pool
+dbhealth
+63064-rule
+63064-rule (TCP/63064)
+biztalkp-lb2-pool
+dbhealth
+63065-rule
+63065-rule (TCP/63065)
+biztalkp-lb2-pool
+dbhealth
+63066-rule
+63066-rule (TCP/63066)
+biztalkp-lb2-pool
+dbhealth
+63067-rule
+63067-rule (TCP/63067)
+biztalkp-lb2-pool
+dbhealth
+63068-rule
+63068-rule (TCP/63068)
+biztalkp-lb2-pool
+dbhealth
+63069-rule
+63069-rule (TCP/63069)
+biztalkp-lb2-pool
+dbhealth
+63070-rule
+63070-rule (TCP/63070)
+biztalkp-lb2-pool
+dbhealth
+63071-rule
+63071-rule (TCP/63071)
+biztalkp-lb2-pool
+dbhealth
+63072-rule
+63072-rule (TCP/63072)
+biztalkp-lb2-pool
+dbhealth
+63073-rule
+63073-rule (TCP/63073)
+biztalkp-lb2-pool
+dbhealth
+63074-rule
+63074-rule (TCP/63074)
+biztalkp-lb2-pool
+dbhealth
+63075-rule
+63075-rule (TCP/63075)
+biztalkp-lb2-pool
+dbhealth
+63076-rule
+63076-rule (TCP/63076)
+biztalkp-lb2-pool
+dbhealth
+63077-rule
+63077-rule (TCP/63077)
+biztalkp-lb2-pool
+dbhealth
+63078-rule
+63078-rule (TCP/63078)
+biztalkp-lb2-pool
+dbhealth
+63079-rule
+63079-rule (TCP/63079)
+biztalkp-lb2-pool
+dbhealth
+63080-rule
+63080-rule (TCP/63080)
+biztalkp-lb2-pool
+dbhealth
+63081-rule
+63081-rule (TCP/63081)
+biztalkp-lb2-pool
+dbhealth
+63082-rule
+63082-rule (TCP/63082)
+biztalkp-lb2-pool
+dbhealth
+63083-rule
+63083-rule (TCP/63083)
+biztalkp-lb2-pool
+dbhealth
+63084-rule
+63084-rule (TCP/63084)
+biztalkp-lb2-pool
+dbhealth
+63085-rule
+63085-rule (TCP/63085)
+biztalkp-lb2-pool
+dbhealth
+63086-rule
+63086-rule (TCP/63086)
+biztalkp-lb2-pool
+dbhealth
+63087-rule
+63087-rule (TCP/63087)
+biztalkp-lb2-pool
+dbhealth
+63088-rule
+63088-rule (TCP/63088)
+biztalkp-lb2-pool
+dbhealth
+63089-rule
+63089-rule (TCP/63089)
+biztalkp-lb2-pool
+dbhealth
+63090-rule
+63090-rule (TCP/63090)
+biztalkp-lb2-pool
+dbhealth
+63091-rule
+63091-rule (TCP/63091)
+biztalkp-lb2-pool
+dbhealth
+63092-rule
+63092-rule (TCP/63092)
+biztalkp-lb2-pool
+dbhealth
+63093-rule
+63093-rule (TCP/63093)
+biztalkp-lb2-pool
+dbhealth
+63094-rule
+63094-rule (TCP/63094)
+biztalkp-lb2-pool
+dbhealth
+63095-rule
+63095-rule (TCP/63095)
+biztalkp-lb2-pool
+dbhealth
+63096-rule
+63096-rule (TCP/63096)
+biztalkp-lb2-pool
+dbhealth
+63097-rule
+63097-rule (TCP/63097)
+biztalkp-lb2-pool
+dbhealth
+63098-rule
+63098-rule (TCP/63098)
+biztalkp-lb2-pool
+dbhealth
+63099-rule
+63099-rule (TCP/63099)
+biztalkp-lb2-pool
+dbhealth
+NetBios-rule
+NetBios-rule (TCP/135)
+biztalkp-lb2-pool
+dbhealth
+Sql-rule
+Sql-rule (TCP/1433)
+biztalkp-lb2-pool
+dbhealth
