@@ -1,6 +1,3 @@
-
-import re
-
 f = open("preprod.txt", "r")
 lines = f.readlines()
 
@@ -14,11 +11,12 @@ for line in lines:
     if count % 4 == 1:
         port = port + [line.strip()]
 
+# extract substring between "/" and ")" for port number
 x = 0
 for x in range(len(port)):
     port[x] = port[x][port[x].index("/") + 1: port[x].index(")")]
-print(port)
 
+# print the terraform rules code
 for x in range(len(port)):
     print("{\n  name  = \"%s\" \
     \n  protocol = \"Tcp\" \n  frontend_port = %s  \n  backend_port  = %s \
